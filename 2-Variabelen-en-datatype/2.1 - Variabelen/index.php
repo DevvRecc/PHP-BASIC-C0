@@ -7,7 +7,7 @@
 $score = 0;
 echo $score;
 
-$naam = Recep;
+$naam = "Recep";
 echo $naam;
 
 ?>
