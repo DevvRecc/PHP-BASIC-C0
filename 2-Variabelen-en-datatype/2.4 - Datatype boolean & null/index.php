@@ -3,10 +3,10 @@
 <body>
 
 <?php
-$test = true;
-echo "de waarde van test is: " . $test . "<br>";
-$test = null;
-echo "de waarde van test is: " . $test . "<br>";
+$waarde = true;
+echo "De waarde is: " . $waarde . "<br>";
+$waarde = null;
+echo "De waarde is: " . $waarde . "<br>";
 ?>
 
 </body>
